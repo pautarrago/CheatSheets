@@ -1,2 +1,2 @@
-#SQL CheatSheet
+# SQL CheatSheet
 *Pau Tarragó Navarra*
