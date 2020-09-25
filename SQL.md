@@ -25,6 +25,6 @@
 
 ## Table Creation
 ```sql
-create table <table_name>
+    create table <table_name>
     
 ```
